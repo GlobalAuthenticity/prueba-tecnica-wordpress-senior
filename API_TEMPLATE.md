@@ -605,7 +605,7 @@ Actualmente no hay límites de tasa implementados, pero se recomienda:
 
 ## Soporte y Contacto
 
-Para reportar bugs o solicitar features, contactar a: [tu-email@example.com]
+Para reportar bugs o solicitar features, contactar a: [jeremias.aragon@globalauthenticity.com]
 
 ---
 
