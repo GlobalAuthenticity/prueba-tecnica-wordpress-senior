@@ -1,0 +1,95 @@
+# WordPress Core
+/wordpress/
+/wp-admin/
+/wp-includes/
+/wp-content/uploads/
+/wp-content/blogs.dir/
+/wp-content/upgrade/
+/wp-content/backup-db/
+/wp-content/advanced-cache.php
+/wp-content/wp-cache-config.php
+/wp-content/cache/
+/wp-content/cache/supercache/
+
+# WordPress specific files
+wp-config.php
+wp-*.php
+xmlrpc.php
+.htaccess
+
+# Node modules
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Composer
+/vendor/
+composer.lock
+
+# Build files
+/dist/
+/build/
+*.map
+
+# IDE and Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.settings/
+*.sublime-project
+*.sublime-workspace
+.phpstorm.meta.php
+_ide_helper.php
+
+# Log files
+*.log
+error_log
+debug.log
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# OS generated files
+Thumbs.db
+.DS_Store
+.Spotlight-V100
+.Trashes
+
+# Environment files
+.env
+.env.local
+.env.production
+.env.development
+
+# PHPUnit
+/phpunit.xml
+.phpunit.result.cache
+/tests/_output/*
+
+# Assets source files (keep compiled only)
+/assets/src/
+*.scss
+*.sass
+*.less
+
+# Database backups
+*.sql
+*.sql.gz
+
+# Deployment files
+deploy.sh
+.deploy/
+
+# Test files
+/tests/coverage/
+
+# Documentation build files
+/docs/_build/
