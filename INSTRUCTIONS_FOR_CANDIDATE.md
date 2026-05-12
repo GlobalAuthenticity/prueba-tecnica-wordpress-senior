@@ -287,3 +287,16 @@ No necesitas ser perfecto. Buscamos evidencia de:
 ¡Buena suerte! Esperamos ver tu solución. 🚀
 
 **El equipo de Global Authenticity**
+
+---
+
+## 🧭 ¿Candidato a Líder de Equipo?
+
+Si te postulas a una posición con **responsabilidad sobre personas** (Tech Lead, Engineering Manager, Líder de Equipo de Desarrollo), debes completar también la capa de liderazgo en [`leadership-track/LEADERSHIP_CHALLENGE.md`](leadership-track/LEADERSHIP_CHALLENGE.md).
+
+- La parte técnica de esta prueba **se mantiene igual** — sigue siendo evaluada con los mismos criterios.
+- La capa de liderazgo **no evalúa código**, evalúa cómo lideras: feedback, mentoring, retención, manejo de conflictos, comunicación con negocio, dilemas humanos.
+- Suma **~6-8 h asíncronas** + una **sesión live de 60-90 min** con 3 roleplays.
+- Entregables separados en `leadership-deliverables/` (no se mezclan con los técnicos).
+
+Si tu rol es puramente IC, ignora la carpeta `leadership-track/`.

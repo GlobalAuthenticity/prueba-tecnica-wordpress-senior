@@ -236,3 +236,16 @@ Los necesarios para mostrar tu proceso de desarrollo. Commits atómicos y bien d
 Si tienes dudas sobre los requerimientos, no dudes en contactarnos.
 
 **¡Buena suerte con la prueba!** 🚀
+
+---
+
+## 🧭 Track de Liderazgo
+
+Si el rol al que te postulas incluye **liderar un equipo de desarrollo** (Tech Lead, Engineering Manager, Líder de Equipo), además de esta prueba técnica deberás completar la capa de liderazgo en [`leadership-track/LEADERSHIP_CHALLENGE.md`](leadership-track/LEADERSHIP_CHALLENGE.md).
+
+Esa capa **no evalúa código**. Evalúa cómo construyes y diriges equipos: feedback, mentoring, manejo de conflictos, retención, comunicación con producto/negocio, dilemas humanos y cultura.
+
+- Take-home asíncrono: **6-8 h adicionales** sobre esta prueba.
+- Sesión live: **60-90 min** con 3 roleplays y debrief de dilemas.
+
+Si tu rol es puramente IC (Individual Contributor), ignora la carpeta `leadership-track/`.
