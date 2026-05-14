@@ -13,7 +13,7 @@
 
 ---
 
-## Dilema 1 — El raise injustificado
+## Dilema 1 — El aumento salarial injustificado
 
 Un senior con caída clara de desempeño los últimos 3 meses te pide un aumento en su 1:1. Trae una oferta externa con +25% sobre su salario actual. Tu presupuesto sí da para igualarla o superarla.
 
