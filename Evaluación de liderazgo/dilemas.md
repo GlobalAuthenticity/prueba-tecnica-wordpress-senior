@@ -10,7 +10,6 @@
 >
 > **No queremos**: respuestas calcadas de libros, soluciones que evitan la conversación dura, ni caminos donde tú no asumes ningún costo.
 >
-> En la sesión en vivo, el evaluador escogerá **uno** de estos dilemas y lo presionará con casos extremos. Prepárate para defender tu posición sin volverte rígido.
 
 ---
 
