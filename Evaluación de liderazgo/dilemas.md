@@ -98,36 +98,12 @@ Es una persona que aprecias humanamente. Tiene hipoteca, dos hijos pequeños. Te
 
 ---
 
-## Dilema 7 — El dilema del cofundador
+## Dilema 7 — Cambios en el stack tecnológico
 
-El CTO (tu jefe directo, además cofundador) tomó una decisión técnica que tú sabes que es mala: forzó la adopción de una tecnología que no encaja, ignorando las advertencias del equipo. La defendió públicamente en all-hands diciendo *"es la única opción razonable"*.
+La compañía necesita adoptar nuevas tecnologías: uso de IA en la codificación, adopción de nuevos lenguajes de desarrollo y te están presionando por aumentar la velocidad en los desarrollos y la eficiencia del tiempo.
 
-Tu equipo te pregunta en standup, frente a todos: *"¿Tú qué piensas?"*
-
-¿Qué respondes en ese momento? ¿Qué haces después fuera de la reunión?
+¿Qué planteamiento harías para lograr la adopción de estás tecnologías, aunque algunas de ellas puedan ser disruptivas para el equipo?
 
 > *[Escribe aquí]*
 
 ---
-
-## Dilema 8 — El éxito propio
-
-Tu equipo logró un hito importante: migración crítica completada antes de tiempo, cero incidentes. En el all-hands de la empresa, el CEO te felicita **a ti, por nombre, públicamente**: *"Quiero agradecer especialmente a [tú] por liderar esto, gran trabajo."*
-
-Hay 80 personas mirando. Tu equipo está entre ellas.
-
-¿Qué haces y dices **en ese momento**? ¿Qué haces **después** de la reunión?
-
-> *[Escribe aquí]*
-
----
-
-## Reflexión final (≤ 200 palabras)
-
-Después de redactar los 8 dilemas, responde:
-
-- ¿Cuál te costó más resolver y por qué?
-- ¿En cuál sospechas que tu respuesta podría ser equivocada y no lo ves?
-- ¿Cuál de estos dilemas has vivido tú en la vida real? ¿Cómo lo resolviste entonces? ¿Lo harías diferente hoy?
-
-> *[Escribe aquí]*
