@@ -48,7 +48,7 @@ Todos en formato Markdown, sin código. Entregar en una carpeta `entregables-lid
 ### 1. `manual-de-liderazgo.md` ⭐ — entregable central
 Rellena la plantilla `manual-de-liderazgo.md` con **tu** forma de liderar. No copies frameworks de Internet; queremos ver tu criterio.
 
-### 2. `dilemas.md` — 8 dilemas resueltos
+### 2. `dilemas.md` — 7 dilemas resueltos
 Responde los 8 dilemas planteados en `dilemas.md`. **200-400 palabras por dilema.** Se evalúa el criterio, no la "respuesta correcta".
 
 ### 3. Los 4 casos prácticos de `casos-practicos/`
