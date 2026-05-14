@@ -1,4 +1,4 @@
-# Case Study 01 — Feedback a un PR de Junior
+# Caso práctico 01 — Feedback a un PR de Junior
 
 > **Lo que evaluamos**: tono, balance, jerarquía de issues, pedagogía, tacto.
 > **Lo que NO evaluamos**: tu capacidad técnica para encontrar bugs. Aquí los issues ya te los damos.

@@ -10,13 +10,13 @@
 >
 > **No queremos**: respuestas calcadas de libros, soluciones que evitan la conversación dura, ni caminos donde tú no asumes ningún costo.
 >
-> En la sesión live, el evaluador escogerá **uno** de estos dilemas y lo presionará con casos extremos. Prepárate para defender tu posición sin volverte rígido.
+> En la sesión en vivo, el evaluador escogerá **uno** de estos dilemas y lo presionará con casos extremos. Prepárate para defender tu posición sin volverte rígido.
 
 ---
 
 ## Dilema 1 — El raise injustificado
 
-Un senior con caída clara de performance los últimos 3 meses te pide un aumento en su 1:1. Trae una oferta externa con +25% sobre su salario actual. Tu presupuesto sí da para igualarla o superarla.
+Un senior con caída clara de desempeño los últimos 3 meses te pide un aumento en su 1:1. Trae una oferta externa con +25% sobre su salario actual. Tu presupuesto sí da para igualarla o superarla.
 
 Tu lectura interna: hace 3 meses entregaba más, ahora entrega menos. Sus reviews son superficiales. Su asistencia a reuniones bajó. Tú no has tenido aún la conversación sobre el bajón.
 

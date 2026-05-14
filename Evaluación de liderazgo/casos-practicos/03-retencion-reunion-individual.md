@@ -1,4 +1,4 @@
-# Case Study 03 — 1:1 de Retención
+# Caso práctico 03 — 1:1 de Retención
 
 > **Lo que evaluamos**: preparación, escucha activa, honestidad sin promesas vacías, plan accionable post-conversación.
 > **Lo que NO evaluamos**: tu habilidad para "convencer" a nadie. La meta no es siempre retener.

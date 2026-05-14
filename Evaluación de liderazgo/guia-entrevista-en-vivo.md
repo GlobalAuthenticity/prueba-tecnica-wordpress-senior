@@ -1,19 +1,19 @@
-# Guía de Sesión Live — Para el Evaluador
+# Guía de Sesión en Vivo — Para el Evaluador
 
 > **Este documento es para el evaluador, no para el candidato.** Mantenerlo fuera de los entregables que el candidato recibe antes de la sesión.
 >
-> Objetivo: estandarizar la sesión live de **60-90 min** para evaluar liderazgo de personas. **No hay preguntas técnicas, ni system design, ni código.** Solo comportamiento, comunicación y criterio bajo presión.
+> Objetivo: estandarizar la sesión en vivo de **60-90 min** para evaluar liderazgo de personas. **No hay preguntas técnicas, ni system design, ni código.** Solo comportamiento, comunicación y criterio bajo presión.
 
 ---
 
 ## Preparación del evaluador (antes de la sesión)
 
-- [ ] Leer los 3 entregables del candidato: `TEAM_PLAYBOOK.md`, `DILEMMAS.md`, los 4 case studies.
-- [ ] Marcar 2-3 puntos del playbook que te llamaron la atención (positivos o de duda) — los usarás en el debrief.
+- [ ] Leer los 3 entregables del candidato: `manual-de-liderazgo.md`, `dilemas.md`, los 4 casos prácticos.
+- [ ] Marcar 2-3 puntos del manual que te llamaron la atención (positivos o de duda) — los usarás en la revisión.
 - [ ] Elegir **un solo dilema** de los 8 para presionar en vivo. Recomendado: el que tenga la respuesta más fuerte o más débil del candidato.
-- [ ] Preparar el escenario de cada roleplay (1 página de contexto del personaje por roleplay).
+- [ ] Preparar el escenario de cada simulación (1 página de contexto del personaje por simulación).
 - [ ] Confirmar que la videollamada se grabe (con consentimiento explícito del candidato) para revisión posterior.
-- [ ] Tener a mano la rúbrica (`EVALUATION_RUBRIC.md`) en otra pestaña para tomar notas en vivo.
+- [ ] Tener a mano la rúbrica (`rubrica-de-evaluacion.md`) en otra pestaña para tomar notas en vivo.
 
 ---
 
@@ -22,13 +22,13 @@
 | Bloque | Tiempo | Foco |
 |---|---|---|
 | Warm-up | 10 min | Confianza + contexto del candidato |
-| Roleplay #1 — Feedback duro a junior | 15 min | Empatía + claridad |
-| Roleplay #2 — Retención de senior | 15 min | Escucha activa + cultura |
-| Roleplay #3 — Stakeholder difícil | 15 min | Comunicación cross-funcional |
-| Debrief de un dilema | 15 min | Criterio bajo presión |
+| Simulación #1 — Feedback duro a junior | 15 min | Empatía + claridad |
+| Simulación #2 — Retención de senior | 15 min | Escucha activa + cultura |
+| Simulación #3 — Interlocutor difícil | 15 min | Comunicación transversal |
+| Revisión de un dilema | 15 min | Criterio bajo presión |
 | Q&A inversa | 20 min | Red flags + curiosidad por la gente |
 
-**Para sesiones de 60 min**: eliminar el roleplay #3 y reducir Q&A a 10 min.
+**Para sesiones de 60 min**: eliminar la simulación #3 y reducir Q&A a 10 min.
 
 ---
 
@@ -53,17 +53,17 @@
 
 ---
 
-## Bloque 2 — Roleplay #1: Feedback duro a junior (15 min)
+## Bloque 2 — Simulación #1: Feedback duro a junior (15 min)
 
 ### Setup que dices al candidato
-> *"Vamos a hacer un roleplay. Yo voy a ser Diego, un dev junior con 4 meses en tu equipo. La situación: ayer mergeé un PR que rompió producción durante 90 minutos. En el standup de hoy lo minimicé diciendo que 'fue un caso edge muy raro'. Tú me llamaste a una reunión rápida. Tú empiezas."*
+> *"Vamos a hacer una simulación. Yo voy a ser Diego, un dev junior con 4 meses en tu equipo. La situación: ayer mergeé un PR que rompió producción durante 90 minutos. En el standup de hoy lo minimicé diciendo que 'fue un caso edge muy raro'. Tú me llamaste a una reunión rápida. Tú empiezas."*
 
 ### Personaje que tú interpretas (Diego)
 - **Estado emocional**: defensivo, levemente avergonzado pero lo oculta con racionalización.
 - **Reacciones iniciales**: *"Pero es que el test no cubría ese caso", "el código de antes también tenía bugs", "Carlos también mergeó cosas peores".*
 - **Si el candidato es empático y firme**: te ablandas hacia el minuto 4-5. Empiezas a reconocer.
 - **Si el candidato es agresivo o pasivo**: te cierras más. Te victimizas.
-- **Test de presión** (alrededor del minuto 8): *"Honestamente, siento que me la tienes velada desde hace semanas. ¿Qué tienes contra mí?"* — ver cómo reacciona.
+- **Momento de presión** (alrededor del minuto 8): *"Honestamente, siento que me la tienes velada desde hace semanas. ¿Qué tienes contra mí?"* — ver cómo reacciona.
 
 ### Señales positivas a evaluar
 - ✅ Pide contexto antes de juzgar (*"Cuéntame qué pasó desde tu perspectiva"*).
@@ -71,7 +71,7 @@
 - ✅ Nombra el impacto humano sin atacar (*"Cuando minimizaste, el equipo entendió que..."*).
 - ✅ Hace que tú llegues a la conclusión, no la impone.
 - ✅ Cierra con un compromiso concreto y observable.
-- ✅ Cuando lanzas la acusación personal, no se defiende — la reformula como pregunta legítima.
+- ✅ Cuando lanzas la acusación personal, no se pone a la defensiva — la reformula como pregunta legítima.
 
 ### Red flags
 - ❌ Sermón unidireccional sin preguntas.
@@ -83,10 +83,10 @@
 
 ---
 
-## Bloque 3 — Roleplay #2: Retención de senior (15 min)
+## Bloque 3 — Simulación #2: Retención de senior (15 min)
 
 ### Setup que dices al candidato
-> *"Nuevo roleplay. Yo soy Ana, senior con 3 años en tu equipo. Conozco a fondo el sistema de pagos. Estamos en nuestro 1:1 quincenal. Hace 30 segundos te dije: 'Quería contarte algo. Estoy hablando con otra empresa. Aún no he tomado decisión.' Tú reaccionas."*
+> *"Nueva simulación. Yo soy Ana, senior con 3 años en tu equipo. Conozco a fondo el sistema de pagos. Estamos en nuestro 1:1 quincenal. Hace 30 segundos te dije: 'Quería contarte algo. Estoy hablando con otra empresa. Aún no he tomado decisión.' Tú reaccionas."*
 
 ### Personaje que tú interpretas (Ana)
 - **Estado emocional**: tranquila pero firme. Esto no es un farol.
@@ -96,7 +96,7 @@
   3. La nueva oferta es +18% pero sobre todo es un rol de staff engineer.
 - **Si el candidato te pregunta por dinero primero**: te decepcionas un poco. *"No es solo el dinero."*
 - **Si el candidato te pregunta por motivación / crecimiento**: te abres más.
-- **Test de presión**: *"Honestamente, ¿tú harías un contraoffer? Porque si no, prefiero ahorrarnos las dos semanas."*
+- **Momento de presión**: *"Honestamente, ¿tú harías una contraoferta? Porque si no, prefiero ahorrarnos las dos semanas."*
 
 ### Señales positivas
 - ✅ No interrumpe. Deja silencio.
@@ -111,22 +111,22 @@
 - ❌ Promesa rápida e irrealista para retener.
 - ❌ Culpabiliza (*"justo ahora que estamos en este proyecto"*).
 - ❌ Habla solo de dinero.
-- ❌ Acepta el "contraoffer" pero sin abordar las razones de fondo.
+- ❌ Acepta hacer la contraoferta pero sin abordar las razones de fondo.
 - ❌ Trata de generar culpa por el knowledge transfer.
 
 ---
 
-## Bloque 4 — Roleplay #3: Stakeholder difícil (15 min)
+## Bloque 4 — Simulación #3: Interlocutor difícil (15 min)
 
 ### Setup que dices al candidato
-> *"Último roleplay. Yo soy Luis, PM senior. Acabo de entrar a tu llamada sin avisar. Mi mensaje: 'Necesito que adelantes el lanzamiento de la feature de certificaciones del 15 de julio al 30 de junio. Cliente clave lo pidió. ¿Lo puedes hacer?'. Tú respondes."*
+> *"Última simulación. Yo soy Luis, PM senior. Acabo de entrar a tu llamada sin avisar. Mi mensaje: 'Necesito que adelantes el lanzamiento de la feature de certificaciones del 15 de julio al 30 de junio. Cliente clave lo pidió. ¿Lo puedes hacer?'. Tú respondes."*
 
 ### Personaje que tú interpretas (Luis)
 - **Estado**: ejecutivo, urgido, no abusivo pero presionando.
 - **Si el candidato dice "no es viable" sin más**: insistes con presión social: *"El cliente representa el 30% del MRR. Si decimos que no, perdemos la cuenta. ¿De verdad quieres ser quien lo bloquee?"*
 - **Si el candidato pide datos**: te pones impaciente. *"No tengo tiempo de hacer un análisis ahora. Necesito una respuesta."*
 - **Si el candidato propone alternativas (scope reducido, MVP, fechas intermedias)**: te abres. *"A ver, cuéntame qué propones."*
-- **Test final**: *"Mira, esto va a llegar a tu jefe esta tarde de todas formas. ¿Quieres que llegue contigo de aliado o como obstáculo?"*
+- **Momento final de presión**: *"Mira, esto va a llegar a tu jefe esta tarde de todas formas. ¿Quieres que llegue contigo de aliado o como obstáculo?"*
 
 ### Señales positivas
 - ✅ No dice "sí" automático ni "no" automático.
@@ -146,7 +146,7 @@
 
 ---
 
-## Bloque 5 — Debrief de un dilema del take-home (15 min)
+## Bloque 5 — Revisión de un dilema del ejercicio asíncrono (15 min)
 
 ### Cómo conducirlo
 1. Elige **antes de la sesión** el dilema sobre el que vas a presionar.
@@ -217,8 +217,8 @@
 
 ## Notas finales para el evaluador
 
-- **No improvises los roleplays**. Si te sales del personaje porque el candidato hace algo brillante o terrible, cancelas la validez de la calibración entre candidatos.
-- **No des pistas durante el roleplay**. El silencio es información.
+- **No improvises las simulaciones**. Si te sales del personaje porque el candidato hace algo brillante o terrible, cancelas la validez de la calibración entre candidatos.
+- **No des pistas durante las simulaciones**. El silencio es información.
 - **Si el candidato pide tiempo para pensar**, dáselo (es señal positiva).
 - **Si el candidato hace un buen punto, no asientas con la cabeza**. Mantén neutralidad para no contaminar.
 - **Pregúntate al final**: *"¿Confiaría a mi mejor junior con esta persona durante 1 año?"* Esa es la prueba final.

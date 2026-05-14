@@ -1,6 +1,6 @@
-# Team Playbook ⭐
+# Manual de Liderazgo ⭐
 
-> Este es el **entregable central** del take-home de liderazgo.
+> Este es el **entregable central** del ejercicio asíncrono de liderazgo.
 >
 > Rellena cada sección con **tu** forma de liderar. No hay respuestas correctas. Buscamos consistencia, profundidad y humanidad — no frameworks copiados de un libro.
 >
@@ -134,7 +134,7 @@ Explica con tus palabras la diferencia. ¿Cuándo usas uno y cuándo el otro?
 Un dev mid-level entrega tarde 3 sprints seguidos. Las estimaciones eran razonables y consensuadas. No ha pedido ayuda.
 
 ### 6.1 Árbol de decisión
-Dibújalo en texto. ¿Qué decisiones tomas y en qué orden? ¿Cuándo escalas a RR.HH.? ¿Cuándo inicias un PIP formal?
+Dibújalo en texto. ¿Qué decisiones tomas y en qué orden? ¿Cuándo escalas a RR.HH.? ¿Cuándo inicias un plan de mejora de desempeño (PIP) formal?
 
 ### 6.2 Scripts de conversación
 
@@ -172,7 +172,7 @@ Define qué esperas del equipo *como humanos*, no como código. 5-8 puntos del e
 - Comunicación en standups.
 - Ayuda mutua y peticiones de ayuda.
 - Tono en code reviews.
-- Comportamiento en on-call.
+- Comportamiento en turno de guardia.
 - Cómo se discrepa.
 - Cómo se reconoce el trabajo de otros.
 - Manejo del tiempo personal (horarios, vacaciones).
@@ -183,23 +183,23 @@ Cada punto debe tener una formulación concreta (qué SE HACE) y un ejemplo de q
 
 ---
 
-## 9. On-call rotation justa
+## 9. Rotación de guardia justa
 
-Diseña la rotación de on-call de tu equipo de 6 personas:
+Diseña la rotación de guardia de tu equipo de 6 personas:
 
 - **Compensación**: ¿pagas? ¿das tiempo libre? ¿depende del contrato?
-- **Opt-out**: ¿quién puede salirse y por qué? (parentalidad, salud, etc.)
+- **Salida voluntaria**: ¿quién puede salirse y por qué? (parentalidad, salud, etc.)
 - **Juniors**: ¿están en rotación? ¿acompañados? ¿desde cuándo?
-- **Post-incidente**: si alguien estuvo 6h despierto resolviendo un SEV1 un sábado, ¿qué pasa al lunes?
+- **Post-incidente**: si alguien estuvo 6h despierto resolviendo un SEV1 un sábado, ¿qué pasa el lunes?
 - **Carga**: cómo te aseguras de que la rotación sea justa cuando hay vacaciones y bajas.
 
 > *[Escribe aquí]*
 
 ---
 
-## 10. Construcción de cultura blameless
+## 10. Construcción de una cultura sin señalar culpables
 
-Llegas a liderar un equipo donde **la cultura es de blame**: cuando hay incidente, se busca culpable, se grita en Slack, los devs ocultan errores.
+Llegas a liderar un equipo donde **la cultura es de echar culpas**: cuando hay incidente, se busca culpable, se grita en Slack, los devs ocultan errores.
 
 Diseña tu plan de 90 días para cambiar la cultura:
 
@@ -261,7 +261,7 @@ Necesitas 8 semanas del equipo para resolver deuda técnica acumulada en el sist
 
 ---
 
-## Cierre — Lo que NO está en este playbook
+## Cierre — Lo que NO está en este manual
 
 Al final, lista 3 cosas importantes sobre liderazgo de equipos que esta plantilla **no te preguntó** y que tú consideras críticas. Explica brevemente cada una.
 

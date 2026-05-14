@@ -1,6 +1,6 @@
-# Case Study 02 — Postmortem Blameless
+# Caso práctico 02 — Postmortem sin señalar culpables
 
-> **Lo que evaluamos**: cultura blameless, comunicación a stakeholders, cómo conduces la conversación 1:1 con el responsable directo.
+> **Lo que evaluamos**: cultura sin señalar culpables, comunicación con partes interesadas, cómo conduces la conversación 1 a 1 con el responsable directo.
 > **Lo que NO evaluamos**: análisis técnico profundo del incidente. La causa ya te la damos; no inventes "root causes" técnicas.
 
 ---
@@ -15,7 +15,7 @@ Eres el líder de un equipo de 5 personas en una empresa de e-learning. Tu plugi
 
 - **11:22** — Marcos ejecutó la migración en producción. Lock de tabla más largo de lo esperado por el volumen de datos.
 
-- **11:26** — Empezaron los 5xx. Los healthchecks fallaron. PagerDuty alertó a Marcos.
+- **11:26** — Empezaron los 5xx. Los chequeos de estado fallaron. PagerDuty alertó a Marcos.
 
 - **11:33** — Marcos detectó el problema, intentó rollback. La caché que había confiado en recuperarse no lo hizo (cache stampede al volver: miles de requests pegando a la BD a la vez).
 
@@ -123,9 +123,9 @@ Entrega:
 
 ## ⚠️ Anti-patrones que estaremos buscando
 
-- Postmortem que parece blameless pero todos los action items son "Marcos hará X".
+- Postmortem que parece apegado a la cultura sin señalar culpables, pero todos los action items son "Marcos hará X".
 - Email al cliente que minimiza el impacto o usa lenguaje corporativo vacío.
-- 1:1 con Marcos donde le "perdonas" la falla — eso no es blameless, es paternalismo.
+- 1:1 con Marcos donde le "perdonas" la falla — eso no es una cultura sin señalar culpables, es paternalismo.
 - 1:1 donde le pides que "haga un análisis profundo de lo que pasó" — eso es delegarle el trabajo emocional del líder.
 - Aceptar la oferta de Marcos de coger días sin abordarlo emocionalmente primero.
 - Sancionar a Marcos como gesto político para calmar al subgrupo que pide cabeza.

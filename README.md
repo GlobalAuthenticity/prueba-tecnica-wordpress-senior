@@ -241,11 +241,11 @@ Si tienes dudas sobre los requerimientos, no dudes en contactarnos.
 
 ## 🧭 Track de Liderazgo
 
-Si el rol al que te postulas incluye **liderar un equipo de desarrollo** (Tech Lead, Engineering Manager, Líder de Equipo), además de esta prueba técnica deberás completar la capa de liderazgo en [`leadership-track/LEADERSHIP_CHALLENGE.md`](leadership-track/LEADERSHIP_CHALLENGE.md).
+Si el rol al que te postulas incluye **liderar un equipo de desarrollo** (Tech Lead, Engineering Manager, Líder de Equipo), además de esta prueba técnica deberás completar la capa de liderazgo en [`Evaluación de liderazgo/desafio-de-liderazgo.md`](Evaluación%20de%20liderazgo/desafio-de-liderazgo.md).
 
 Esa capa **no evalúa código**. Evalúa cómo construyes y diriges equipos: feedback, mentoring, manejo de conflictos, retención, comunicación con producto/negocio, dilemas humanos y cultura.
 
-- Take-home asíncrono: **6-8 h adicionales** sobre esta prueba.
-- Sesión live: **60-90 min** con 3 roleplays y debrief de dilemas.
+- Ejercicio asíncrono: **6-8 h adicionales** sobre esta prueba.
+- Sesión en vivo: **60-90 min** con 3 simulaciones y revisión de dilemas.
 
-Si tu rol es puramente IC (Individual Contributor), ignora la carpeta `leadership-track/`.
+Si tu rol es puramente IC (Individual Contributor), ignora la carpeta `Evaluación de liderazgo/`.

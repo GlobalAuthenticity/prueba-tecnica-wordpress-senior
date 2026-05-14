@@ -1,6 +1,6 @@
-# Case Study 04 — Comunicación a Stakeholders
+# Caso práctico 04 — Comunicación con Partes Interesadas
 
-> **Lo que evaluamos**: traducción técnico → negocio, framing por impacto, capacidad de "no" sin enfrentamiento, anticipación de objeciones.
+> **Lo que evaluamos**: traducción técnico → negocio, encuadre por impacto, capacidad de decir "no" sin enfrentamiento, anticipación de objeciones.
 > **Lo que NO evaluamos**: profundidad técnica de la deuda. La descripción técnica del problema ya te la damos; tu trabajo es traducirla.
 
 ---
@@ -28,7 +28,7 @@ Heredaste el plugin con **deuda técnica significativa**. Lo más crítico:
 
 ### Lo que necesitas
 
-**8 semanas del equipo completo** (40 person-weeks) para resolver lo crítico:
+**8 semanas del equipo completo** (40 semanas-persona) para resolver lo crítico:
 - Refactor del módulo de tracking con buffering async + batch inserts.
 - Rediseño de queries con JOINs apropiados + caché objeto.
 - Cache layer para REST API (CDN + memcached).
