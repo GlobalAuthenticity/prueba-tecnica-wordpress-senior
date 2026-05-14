@@ -63,21 +63,6 @@ Diseña su plan:
 
 ---
 
-## 3. Plan de crecimiento para un senior estancado
-
-Tienes un senior de 5 años en la empresa. Buen ejecutor, pero hace 18 meses que no progresa: no toma iniciativa en arquitectura, no mentora, su feedback en reviews es siempre "LGTM".
-
-Estructura:
-
-- **Cómo identificas su techo**: señales que observas, qué descartas como ruido.
-- **Conversación inicial**: cómo abres el tema sin que se sienta atacado. Frase de apertura concreta.
-- **Plan a 6 meses**: 3 hitos con responsabilidad creciente. Qué soporte le das tú.
-- **Plan B**: qué haces si en 6 meses no hay movimiento.
-
-> *[Escribe aquí]*
-
----
-
 ## 4. 1:1 template
 
 Comparte:
