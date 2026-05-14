@@ -8,7 +8,7 @@ Gracias por tu interés en la posición de **Desarrollador WordPress Senior**. E
 
 ## ⏰ Tiempo Estimado
 
-**6-8 horas** de trabajo efectivo
+**4-6 horas** de trabajo efectivo
 
 No hay un límite de tiempo estricto, pero te recomendamos no invertir más de 8 horas. La calidad es más importante que la cantidad de funcionalidades.
 
@@ -33,6 +33,8 @@ No hay un límite de tiempo estricto, pero te recomendamos no invertir más de 8
 ### 4. Archivos SQL (carpeta `/database`)
 - `schema.sql` - Estructura de tabla personalizada
 - `sample-data.sql` - (Opcional) Datos de prueba
+
+### 5. PROMPTS utilizados para generar código 
 
 ---
 
@@ -123,6 +125,8 @@ Sugerencia de orden:
 ### Control de Versiones
 - **Git** - Control de versiones
 - **GitHub Desktop** - Si prefieres GUI
+
+### Agentes de IA como Claude, Cursor u otros de tu preferencia (MUY IMPORTANTE)
 
 ---
 
