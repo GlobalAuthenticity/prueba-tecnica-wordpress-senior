@@ -1,4 +1,4 @@
-# Prueba Técnica - Desarrollador WordPress Senior
+# Prueba Técnica
 
 ## 📋 Descripción General
 
